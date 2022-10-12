@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZJYZAUEI
 
 [Document2]
-DocumentPath=ADB.PcbDoc
+DocumentPath=DistBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NRLOFPXH
+DocumentUniqueId=JUASKTRB
 
 [Configuration1]
 Name=Sources
