@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "DistBoard-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DistBoard-altium-import.kicad_sym")(options "")(descr ""))
+)
