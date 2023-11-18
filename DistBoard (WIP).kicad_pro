@@ -55,12 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_issues|127488051|94206323|a2d8417a-0850-43c8-b13d-b3fdf0931bda|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|142095353|89081165|f624f258-5804-4ca7-a8f6-5ba9ba7a1b62|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|142127594|94243901|54d8c7be-f27e-4fa1-8f68-a73175d430e3|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|157327600|94208600|de503746-ed56-40b7-9212-0a2db4e72145|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -410,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DistBoard.kicad_pro",
+    "filename": "DistBoard (WIP).kicad_pro",
     "version": 1
   },
   "net_settings": {
