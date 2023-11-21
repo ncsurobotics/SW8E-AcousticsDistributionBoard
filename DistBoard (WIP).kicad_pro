@@ -433,7 +433,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/J2 (CLK)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/J3 (CLK)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
